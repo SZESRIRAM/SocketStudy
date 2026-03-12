@@ -111,7 +111,9 @@ client_socket.close()
 ```
 
 ## Output
+Server Side\
 <img width="923" height="228" alt="image" src="https://github.com/user-attachments/assets/7fdd9168-e11c-4c61-8c10-4714ea54ec51" />
+Client Side\
 <img width="937" height="305" alt="image" src="https://github.com/user-attachments/assets/db28d395-4e9d-4526-abc8-fd9fe29fc163" />
 
 
